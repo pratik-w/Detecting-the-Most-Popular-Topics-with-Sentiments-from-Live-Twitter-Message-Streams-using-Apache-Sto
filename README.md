@@ -1,0 +1,2 @@
+# Detecting-the-Most-Popular-Topics-with-Sentiments-from-Live-Twitter-Message-Streams-using-Apache-Sto
+Design and implement approximate on-line algorithms and parallelism over a real-time streaming data processing framework. The goal of your system is to detect the most frequently occurring hash tags and named-entities from the live Twitter data stream and calculate sentiment values in real-time using the Lossy Counting Algorithm.
